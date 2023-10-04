@@ -50,7 +50,7 @@
 9. Логирование проекта (https://docs.python.org/3.4/library/logging.html#logrecord-attributes)
 10.  lazy-logging - https://okomestudio.net/biboroku/2020/04/on-lazy-logging-evaluation/
 11.  Логирование функций с параметрами - https://dev.to/duyixian1234/three-ways-to-automatically-add-functions-and-methods-calling-log-for-python-code-5fd0
-12.  Работа с pdf через API (как отдать клевый PDF)
+12.  Работа с pdf через API (как отдать клевый PDF) https://www.youtube.com/playlist?list=PLzz7R3Slbh5SDn0o_r304NnaWvdjf2ofT
 14.  Векторизация (выполнение кода ядром питона)
 15.  __pycache__, понять как работает
 16.  При обновлении страницы https://foodgramdrsif.servegame.com/ выскакивает ошибка 404
