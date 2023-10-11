@@ -3,6 +3,7 @@
 ### Где мы ещё есть? Вот тут:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/+efqDmC45Vg43NWRi)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=5865f2)](https://discord.gg/ACuC3ngx)
+[![Notion](https://img.shields.io/badge/-Notion-090909?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Nerd-students-e074d1c4f55c4c77a21d3fc93c10aabc)
 
 
 ### Если тебе важны те же вещи, что и нам, то присоединяйся:
@@ -18,9 +19,3 @@
 1. **Дело** - вопросы, которые нужно проработать быстро (+- 2-3 дня)
 2. **Курс** - большое **дело** (например, прочитать книгу это тоже курс)
 3. **Тренировка** - регулярное занятие
-
-### Разделы:
-
-1. [Список курсов](./courses.md)
-2. [Список тренировок](./workout.md)
-3. [Списки дел](./deals.md)
